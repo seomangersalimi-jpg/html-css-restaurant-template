@@ -17,7 +17,7 @@ This project is a frontend portfolio sample created to demonstrate layout struct
 - CSS3
 
 ## Preview
-![Project Screenshot](images/screenshot1.png)
+![Project Screenshot](images/Screenshot From 2026-07-20 21-26-09.png)
 
 ## How to Run
 Open `index.html` in your browser.
