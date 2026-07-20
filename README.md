@@ -18,7 +18,7 @@ It demonstrates page structure, styling, layout organization, and responsive des
 - CSS3
 
 ## Preview
-![Project Screenshot](images/screenshot1.png)
+![Project Screenshot]
 
 ## How to Run
 1. Download or clone the repository
